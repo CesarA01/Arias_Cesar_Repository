@@ -7,7 +7,7 @@ Logistic regression is a process of modeling the probability of a discrete outco
 ## DATA SET
 
 The link to the data set used in this linear regression example is provided below. In this assignment we will cover some linear regression modeling with the data set "winequality-red".
-![Wine](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+[Wine](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 Columns inside the data set
 - fixed acidity
 - Weight

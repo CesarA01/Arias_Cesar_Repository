@@ -7,7 +7,7 @@ This type of learning is a general approach to machine learning that helps creat
 ## DATA SET
 
 The link to the data set used in this Ensemble Learning example is provided below. In this assignment we will cover some ensemble learning modeling with the data set "MoviesData".
-![MovieDATA](https://www.kaggle.com/datasets/antallen/comparing-numerical-movie-review-scores)
+[MovieDATA](https://www.kaggle.com/datasets/antallen/comparing-numerical-movie-review-scores)
 Columns inside the data set
 - Title
 - Rating

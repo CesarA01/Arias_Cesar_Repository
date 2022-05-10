@@ -10,7 +10,7 @@ The representation is a linear equation that combines a specific set of input va
 ## DATA SET
 
 The link to the data set used in this linear regression example is provided below. In this assignment we will cover some linear regression modeling with the data set "Fish".
-![FishData](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+[FishData](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
 Columns inside the data set
 - Species
 - Weight

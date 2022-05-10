@@ -5,7 +5,7 @@ unsupervised algorithms make inferences from datasets using only input vectors w
 ## DATA SET
 
 The link to the data set used in this K means Clustering example is provided below. In this assignment we will cover some K Means Clustering modeling with the data set "Fish".
-![FishData](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
+[FishData](https://www.kaggle.com/datasets/aungpyaeap/fish-market)
 Columns inside the data set
 - Species
 - Weight

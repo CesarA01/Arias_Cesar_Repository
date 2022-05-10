@@ -7,7 +7,7 @@ The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametri
 ## DATA SET
 
 The link to the data set used in this KNN example is provided below. In this assignment we will cover some KNN modeling with the data set "winequality-red".
-![Wine](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+[Wine](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 Columns inside the data set
 - fixed acidity
 - Weight
