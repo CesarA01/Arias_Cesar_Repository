@@ -6,7 +6,7 @@ Using this type of model involves deciding on what features we need to choose an
 ## DATA SET
 
 The link to the data set used in this decision tree example is provided below. In this assignment we will cover some decision tree modeling with the data set "MoviesData".
-![MovieDATA](https://www.kaggle.com/datasets/antallen/comparing-numerical-movie-review-scores)
+[MovieDATA](https://www.kaggle.com/datasets/antallen/comparing-numerical-movie-review-scores)
 Columns inside the data set
 - Title
 - Rating
